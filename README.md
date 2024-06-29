@@ -1,20 +1,5 @@
 # Project Overview Iris-Flower-Classification :
 
-Iris-Flower-Classification/
-├── README.md
-├── IrisFlower.ipynb
-├── test_api.py
-├── app.py
-├── data/
-│   ├── iris.zip
-│   ├── bezdekIris.data
-│   ├── iris.data
-│   ├── iris.names
-├── models/
-│   ├── knn_model.pkl
-│   ├── log_reg_model.pkl
-└── Index
-
 This project involves building and evaluating machine learning models to classify iris flower species based on their characteristics. The project uses the famous Iris dataset and includes the following steps:
 
 1. Load the dataset.
