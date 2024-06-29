@@ -1,0 +1,14 @@
+Iris-Flower-Classification/
+├── README.md
+├── IrisFlower.ipynb
+├── test_api.py
+├── app.py
+├── data/
+│   ├── iris.zip
+│   ├── bezdekIris.data
+│   ├── iris.data
+│   ├── iris.names
+├── models/
+│   ├── knn_model.pkl
+│   ├── log_reg_model.pkl
+└── Index
