@@ -1,4 +1,5 @@
 # Project Overview Iris-Flower-Classification :
+![poster](https://github.com/ML-Project-Sam/Iris-Flower-Classification/assets/168593395/8c865ec6-d145-412b-895a-8319311a0ef5)
 
 This project involves building and evaluating machine learning models to classify iris flower species based on their characteristics. The project uses the famous Iris dataset and includes the following steps:
 
